@@ -1,0 +1,13 @@
+@font-face {
+    font-family: 'Tahoma';
+    src: url('../fonts/WineTahoma.eot');
+    src: url('../font/WineTahoma.eot?#iefix') format('embedded-opentype'),
+        url('../font/WineTahoma.woff2') format('woff2'),
+        url('../font/WineTahoma.woff') format('woff'),
+        url('../font/WineTahoma.ttf') format('truetype'),
+        url('../font/WineTahoma.svg#WineTahoma') format('svg');
+    font-weight: normal;
+    font-style: normal;
+    font-display: swap;
+}
+
